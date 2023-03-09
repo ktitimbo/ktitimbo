@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h2 align=center>Hi! I'm Marisa Brantley.</h2>
+<h3 align=center>Frontend Developer and UI Designer</h3>
+
 <!--
 **ktitimbo/ktitimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
