@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 More info about my past and ongoing research projects can be found <a href="[https://www.example.com](https://ktitimbo.github.io/)" target="_blank">here</a> 
+
+<a href="https://ktitimbo.github.io/" target="_blank">here</a>
