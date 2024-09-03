@@ -16,9 +16,10 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7144583" width="40" height="40" style="vertical-align: middle;" />
     </a>
     <!-- Only one LinkedIn link is kept, either the SVG or the image -->
-    <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer"> 
-        <svg xmlns="http://www.w3.org/2000/svg" height="40" viewBox="0 0 448 512" style="vertical-align: middle;">
-            <path fill="#0077B5" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/>
+    <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="40" height="40" style="vertical-align: middle;">
+            <rect x="0" y="0" width="100%" height="100%" fill="#0077B5"/>
+            <path fill="#FFFFFF" d="M100.28 448H7.4V149.48h92.88zm-46.14-338c-30.69 0-55.61-25.13-55.61-55.77 0-30.78 24.91-55.71 55.3-55.71 30.47 0 55.36 24.94 55.36 55.71 0 30.64-24.89 55.77-55.05 55.77zM447.91 448h-92.64V302.4c0-34.7-.66-79.26-48.31-79.26-48.36 0-55.79 37.78-55.79 76.83V448h-92.65V149.48h88.92v40.81h1.29c12.39-23.49 42.67-48.31 87.78-48.31 93.83 0 111.11 61.8 111.11 142.1V448z"/>
         </svg>
     </a>
 </p>
