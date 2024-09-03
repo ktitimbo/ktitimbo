@@ -4,9 +4,9 @@
 
 <h2 align="left">Connect with me:</h2> 
 <p align="left">
-<a href="mailto: titimbo@caltech.edu" target="blank"><img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/new-post.png" alt="ktitimbo mail"/>
+<a href="mailto: titimbo@caltech.edu" target="blank"><img width="40" height="30" src="https://img.icons8.com/pulsar-color/48/new-post.png" alt="ktitimbo mail"/>
 </a>
-<a href="https://linkedin.com/in/ktitimbo" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ktitimbo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ktitimbo" rel="noopener noreferrer" target="_blank"><img style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ktitimbo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7144583" rel="noopener noreferrer" target="_blank"><img style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7144583" height="30" width="40" /></a>
 <br>
 
