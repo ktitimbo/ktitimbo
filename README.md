@@ -7,7 +7,7 @@
 <h2 style="text-align: left;">Connect with me:</h2> 
 <p style="text-align: left;">
     <a href="mailto:titimbo@caltech.edu" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/paper-plane.png" alt="ktitimbo mail" width="45" height="45" style="position: relative; top: 5px;" />
+        <img src="https://img.icons8.com/color/48/paper-plane.png" alt="ktitimbo mail" width="45" height="45" style="position: relative; top: 50px;" />
     </a>
     <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ktitimbo" width="40" height="40" style="vertical-align: middle;" />
