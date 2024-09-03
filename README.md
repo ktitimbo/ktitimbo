@@ -1,5 +1,5 @@
-<h2 style="text-align: center;">I'm Kelvin Titimbo.</h2>
-<h3 style="text-align: center;">Theoretical Physicist working on Quantum Physics</h3>
+<h2 style="width: 100%; text-align: center;">I'm Kelvin Titimbo.</h2>
+<h3 style="width: 100%; text-align: center;">Theoretical Physicist working on Quantum Physics</h3>
 
 <h2 style="text-align: left;">Connect with me:</h2> 
 <p style="text-align: left;">
