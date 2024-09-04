@@ -17,13 +17,15 @@
     </a>
     <!-- Only one LinkedIn link is kept, either the SVG or the image -->
     <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer">
-        <img width="64" alt="LinkedIn icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014">
+        <img width="48" alt="LinkedIn icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014">
     </a>
 </p>
 
 <p>More details about my past and ongoing research projects can be found 
 <a href="https://ktitimbo.github.io/" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
+
+<a title="Stack Overflow, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stack_Overflow_icon.svg"><img width="64" alt="The official Stack Overflow icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/64px-Stack_Overflow_icon.svg.png?20190716190036"></a>
 
 
 <p style="line-height: 1.5;">
