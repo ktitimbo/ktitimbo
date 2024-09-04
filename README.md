@@ -9,7 +9,7 @@
     <a href="mailto:titimbo@caltech.edu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 20px;">
         <img src="https://github.com/ktitimbo/my_icons/blob/main/icons/envelope_email_icon.svg" alt="email" width="45" height="45" style="vertical-align: middle; margin-right: 100px;" />
     </a>
-    <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer">
+    <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014" alt="ktitimbo" width="45" height="45" style="vertical-align: middle; margin-right: 15em;" />
     </a>
     <a href="https://stackoverflow.com/users/7144583" target="_blank" rel="noopener noreferrer">
