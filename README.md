@@ -20,10 +20,3 @@
 <p>More details about my past and ongoing research projects can be found 
 <a href="https://ktitimbo.github.io/" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
-
-<p style="line-height: 1.5;">
-    More details about my past and ongoing research projects can be found 
-    <a href="https://ktitimbo.github.io/" target="_blank" rel="noopener noreferrer">
-        <img width="40" height="40" src="https://img.icons8.com/plasticine/100/domain.png" alt="domain" style="vertical-align: bottom; margin-top=10px;" />
-    </a>
-</p>
