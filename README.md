@@ -6,7 +6,7 @@
 
 <h2 style="text-align: left;">Connect with me:</h2> 
 <p style="text-align: left;">
-    <a href="mailto:titimbo@caltech.edu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 20px;">
+    <a href="mailto:titimbo@caltech.edu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 50px;">
         <img src="https://github.com/ktitimbo/my_icons/blob/main/icons/envelope_email_icon.svg" alt="email" width="45" height="45" style="vertical-align: middle; margin-right: 100px;" />
     </a>
     <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 20px;">
