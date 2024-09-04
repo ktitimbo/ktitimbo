@@ -6,8 +6,8 @@
 
 <h2 style="text-align: left;">Connect with me:</h2> 
 <p style="text-align: left;">
-    <a href="mailto:titimbo@caltech.edu" target="_blank" rel="noopener noreferrer" style="padding-right: 10em;">
-        <img src="https://github.com/ktitimbo/my_icons/blob/main/icons/envelope_email_icon.svg" alt="email" width="45" height="45" style="vertical-align: middle; margin-right: 100;" />
+    <a href="mailto:titimbo@caltech.edu" target="_blank" rel="noopener noreferrer" style="padding-right: 100em;">
+        <img src="https://github.com/ktitimbo/my_icons/blob/main/icons/envelope_email_icon.svg" alt="email" width="45" height="45" style="vertical-align: middle; margin-right: 100px;" />
     </a>
     <a href="https://linkedin.com/in/ktitimbo" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014" alt="ktitimbo" width="45" height="45" style="vertical-align: middle;" />
