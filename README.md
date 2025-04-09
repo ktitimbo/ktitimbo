@@ -1,8 +1,9 @@
 <h1 align=center>Kelvin Titimbo</h2>
 <h2 align=center>Theoretical Physicist working on Quantum Physics<h3>
 <br>
-<p align="justify">As a theoretical physicist, I delve deep into the abstract realms of mathematical models to uncover the mysteries of the interaction between light and matter. But when the equations reach their limits, we look for alternatives—numerical methods take over. That's where the power of computation comes into play, turning theory into tangible results. Here, in my repositories, you'll find the tools and projects that bridge the gap between pure theory and practical application. Dive in and explore how mathematics meets code to push the boundaries of what's possible.</p>
-<br>
+<p align="justify">As a theoretical physicist, I explore the abstract landscapes of mathematical models to unravel the complexities of the light-matter interaction. But when the analytical solutions fall short, we look for alternatives—numerical methods take over. This is where the power of computation comes into play, turning theory into tangible results. In my repositories, you'll find tools and projects that bridge the gap between pure theoretical insights and practical application. Dive in and explore how mathematics meets code to push the boundaries of what's possible.</p>
+<be>
+
 
 <h2 style="text-align: left;">Connect with me:</h2> 
 <p style="text-align: left;">
